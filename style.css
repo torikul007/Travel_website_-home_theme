@@ -1,0 +1,212 @@
+
+
+/***header-area***/
+
+.header-area{
+	padding: 30px 0;
+	height: 600px;
+	background: url('images/index.jpg') no-repeat;
+	background-size: cover;
+	
+
+}
+.header-area .container{
+	width: 65%;
+}
+.main-menu{
+	margin-left: 20px;
+
+}
+.main-menu ul li{
+	padding: 0 10px;
+
+}
+.main-menu ul a{
+	color: #FFFFFF;
+	text-transform: capitalize;
+	font-size: 11px;
+	font-family: tahoma;
+	font-weight: bold;
+	text-decoration: none;
+
+}
+.main-menu .some{
+	float: right;
+}
+.header-area hr{
+	border:1px solid#979CA2;
+}
+.header-area h2{
+	margin-top: 130px;
+	text-transform: capitalize;
+	color: #fff;
+	font-size: 50px;
+}
+.header-area h4{
+	margin-top: 20px;
+	text-transform: capitalize;
+	color: #fff;
+	font-size: 14px;
+	font-width: bold;
+	font-family: tahoma;
+}
+
+.header-area .three button{
+	padding: 9px 50px;
+	border-radius: 50px;
+	font-size: 12px;
+}
+
+.header-area .four{
+	position:absolute;
+	top: 500px;
+
+}
+.four{
+	margin-left: 100px;
+}
+.four span{
+	font-size: 40px;
+	color: #FFFFFF;
+	float: left;
+}	
+.four h6{
+	color: #FFFFFF;
+	overflow: hidden;
+	margin-left: 15px;
+	display: inline-block;
+	font-family: tahoma;
+	
+}
+
+
+/***fusion-area***/
+
+.fusion-area{
+	margin-top: 100px;
+
+}
+
+.fusion-area .container{
+	width: 60%;
+}
+.fusion-area h2{
+	color: #4A4A4A;
+	text-transform: capitalize;
+}
+.fusion-area p{
+	color: #C9C9C9;
+	font-size: 11px;
+	font-weight: bold;
+	font-family: tahoma;
+}
+
+/***destination-area***/
+
+.destination-area{
+	margin-top: 100px;
+
+}
+.destination-area h2{
+	text-transform: capitalize;
+
+}
+.destination-area h6{
+	text-transform: capitalize;
+	color: #C9C9C9;;
+
+}
+.six span{
+	font-size: 20px;
+	margin-left: 47%;
+	float: left;	
+}
+.six h6{
+	margin-left: 15px;
+
+}
+.destination-area .three button{
+	padding: 9px 50px;
+	border-radius: 50px;
+	font-size: 12px;
+}
+
+
+
+/***client-area***/
+.client-area{
+	position: relative;
+	margin-top: 50px;
+
+}
+.client-area .container{
+	width: 45%;
+}
+.client-area .inf img{
+	float: left;
+}
+.client-area h2{
+	text-transform: capitalize;
+}
+.inf p{
+	position: absolute;
+	top: 170px;
+	left: 49%;
+	margin-right: 245px;
+}
+.inf h6{
+	position: absolute;
+	top: 315px;
+	left: 50%;
+	margin-right: 245px;
+}	
+
+/****discount-area***/
+.discount-area{
+	background: #FBAD27;
+	padding: 50px 0;
+	position: relative;
+}
+.discount-area h2{
+	float: left;
+	text-transform: capitalize;
+	margin-left: 20px;
+
+
+}
+.discount-area .some button{
+	overflow: hidden;
+	position: absolute;
+	right: 200px;
+	top: 70px;
+	padding: 9px 50px;
+	border-radius: 50px;
+	border: 1px solid #FFFFFF;
+
+}
+
+/***fotter-area***/
+.fotter-area{
+	padding: 100px 0;
+
+}
+.fotter-area .container{
+	width: 80%;
+}
+.fotter-col h5{
+	color: #818181;
+	font-family: tahoma;
+}
+.fotter-col i{
+	padding: 3px 6px;
+	border-radius: 50%;
+	border: 4px solid #626262;
+	margin-left: 3px;
+}
+.fotter-col i:hover{
+	padding: 6px 9px;
+	border-radius: 50%;
+	border: 6px solid #626262;
+	margin-left: 10px;
+}
+
